@@ -13,7 +13,10 @@ With an easy-to-use **Streamlit interface**, users can input their details and g
 
 ## 📂 Dataset & Model Building  
 The models are trained on medical datasets using **Scikit-Learn** algorithms.  
-For detailed steps on **data preprocessing, feature selection, and model training**, check [`model_building.md`](model_building.md).  
+For detailed steps on **data preprocessing, feature selection, and model training**, check  FILES 
+- Multiple disease prediction system - diabetes.ipynb
+- Multiple disease prediction system - heart.ipynb
+- Multiple disease prediction system - Parkinsons.ipynb 
 
 ## 🛠️ Installation & Setup  
 
